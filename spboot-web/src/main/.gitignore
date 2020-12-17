@@ -1,0 +1,11 @@
+## 其他忽略方式
+# 忽视idea.txt文件
+idea.txt
+# 忽视.gitignore文件
+.gitignore
+# 忽视css下的index.js文件
+css/index.js
+# 忽视css下的所有的js文件
+css/*.js
+# 忽视css整个文件夹
+css
